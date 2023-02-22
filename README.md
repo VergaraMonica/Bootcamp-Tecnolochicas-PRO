@@ -27,4 +27,4 @@ En este proyecto me enfoqué en construir la clonación de la interfaz de Google
 Aprender a utilizar las etiquetas estándar de HTML5 y los estilos de CSS3.
 
 ## 4. Link a Demo
-https://g00gle-clone.netlify.app/
+Para visualizar mi proyecto erminado, puedes entrar al siguiente link: [Clonación de Google](https://g00gle-clone.netlify.app/)
